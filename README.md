@@ -97,5 +97,3 @@ Los resultados demuestran que Java optimiza mejor la concurrencia, mientras que 
 Este estudio proporciona información clave para la elección de tecnologías en aplicaciones de alto rendimiento y concurrencia.
 
 ---
-
-**Nota:** Este documento puede descargarse y utilizarse para referencia en futuros estudios y experimentos sobre concurrencia y paralelismo en programación.
