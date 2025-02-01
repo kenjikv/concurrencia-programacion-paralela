@@ -1,0 +1,14 @@
+C:\Users\Maquina\Desktop\Concurrencia .NET\ThreadProgram\bin\Debug\net9.0\ThreadProgram.exe
+C:\Users\Maquina\Desktop\Concurrencia .NET\ThreadProgram\bin\Debug\net9.0\ThreadProgram.deps.json
+C:\Users\Maquina\Desktop\Concurrencia .NET\ThreadProgram\bin\Debug\net9.0\ThreadProgram.runtimeconfig.json
+C:\Users\Maquina\Desktop\Concurrencia .NET\ThreadProgram\bin\Debug\net9.0\ThreadProgram.dll
+C:\Users\Maquina\Desktop\Concurrencia .NET\ThreadProgram\bin\Debug\net9.0\ThreadProgram.pdb
+C:\Users\Maquina\Desktop\Concurrencia .NET\ThreadProgram\obj\Debug\net9.0\ThreadProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maquina\Desktop\Concurrencia .NET\ThreadProgram\obj\Debug\net9.0\ThreadProgram.AssemblyInfoInputs.cache
+C:\Users\Maquina\Desktop\Concurrencia .NET\ThreadProgram\obj\Debug\net9.0\ThreadProgram.AssemblyInfo.cs
+C:\Users\Maquina\Desktop\Concurrencia .NET\ThreadProgram\obj\Debug\net9.0\ThreadProgram.csproj.CoreCompileInputs.cache
+C:\Users\Maquina\Desktop\Concurrencia .NET\ThreadProgram\obj\Debug\net9.0\ThreadProgram.dll
+C:\Users\Maquina\Desktop\Concurrencia .NET\ThreadProgram\obj\Debug\net9.0\refint\ThreadProgram.dll
+C:\Users\Maquina\Desktop\Concurrencia .NET\ThreadProgram\obj\Debug\net9.0\ThreadProgram.pdb
+C:\Users\Maquina\Desktop\Concurrencia .NET\ThreadProgram\obj\Debug\net9.0\ThreadProgram.genruntimeconfig.cache
+C:\Users\Maquina\Desktop\Concurrencia .NET\ThreadProgram\obj\Debug\net9.0\ref\ThreadProgram.dll

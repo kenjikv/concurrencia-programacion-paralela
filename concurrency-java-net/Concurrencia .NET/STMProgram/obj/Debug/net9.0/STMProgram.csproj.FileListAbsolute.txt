@@ -1,0 +1,14 @@
+C:\Users\Maquina\Desktop\Concurrencia .NET\STMProgram\bin\Debug\net9.0\STMProgram.exe
+C:\Users\Maquina\Desktop\Concurrencia .NET\STMProgram\bin\Debug\net9.0\STMProgram.deps.json
+C:\Users\Maquina\Desktop\Concurrencia .NET\STMProgram\bin\Debug\net9.0\STMProgram.runtimeconfig.json
+C:\Users\Maquina\Desktop\Concurrencia .NET\STMProgram\bin\Debug\net9.0\STMProgram.dll
+C:\Users\Maquina\Desktop\Concurrencia .NET\STMProgram\bin\Debug\net9.0\STMProgram.pdb
+C:\Users\Maquina\Desktop\Concurrencia .NET\STMProgram\obj\Debug\net9.0\STMProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maquina\Desktop\Concurrencia .NET\STMProgram\obj\Debug\net9.0\STMProgram.AssemblyInfoInputs.cache
+C:\Users\Maquina\Desktop\Concurrencia .NET\STMProgram\obj\Debug\net9.0\STMProgram.AssemblyInfo.cs
+C:\Users\Maquina\Desktop\Concurrencia .NET\STMProgram\obj\Debug\net9.0\STMProgram.csproj.CoreCompileInputs.cache
+C:\Users\Maquina\Desktop\Concurrencia .NET\STMProgram\obj\Debug\net9.0\STMProgram.dll
+C:\Users\Maquina\Desktop\Concurrencia .NET\STMProgram\obj\Debug\net9.0\refint\STMProgram.dll
+C:\Users\Maquina\Desktop\Concurrencia .NET\STMProgram\obj\Debug\net9.0\STMProgram.pdb
+C:\Users\Maquina\Desktop\Concurrencia .NET\STMProgram\obj\Debug\net9.0\STMProgram.genruntimeconfig.cache
+C:\Users\Maquina\Desktop\Concurrencia .NET\STMProgram\obj\Debug\net9.0\ref\STMProgram.dll
